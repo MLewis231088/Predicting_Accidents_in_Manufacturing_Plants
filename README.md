@@ -12,24 +12,21 @@ Accidents in manufacturing plants can have serious consequences. This project fo
 
 This repository contains the following files and directories:
 
-- `EDA_Accidents_Industries.ipynb`:
+- `EDA_Accidents_Industries.py`:
     -   Exploratory Data Analysis (EDA) notebook for analyzing accidents and industries data.
-- `Data_Preprocessing.ipynb`:
+- `Data_Preprocessing.py`:
     -   Data preprocessing notebook for cleaning and preparing the accident data.
-- `Data_Augmentation_SMOTE.ipynb`:
+- `Data_Augmentation_SMOTE.py`:
     -   Notebook for applying Synthetic Minority Over-sampling Technique (SMOTE) for data augmentation.
-- `Data_Augmentation_Synonym_Replacement.ipynb`:
+- `Data_Augmentation_Synonym_Replacement.py`:
     -   Notebook for applying synonym replacement for data augmentation.
-- `Pycaret_ML_SMOTE_equal_weights.ipynb`:
+- `Pycaret_ML_SMOTE_equal_weights.py`:
     -   Notebook implementing machine learning models using PyCaret and SMOTE technique.
-- `FSL_BiLSTM_Glove_Synonym_Replacement.ipynb`:
+- `FSL_BiLSTM_Glove_Synonym_Replacement.py`:
     -   Notebook for Few-Shot Learning using Bi-LSTM, GloVe embeddings, and synonym replacement.
 - `data/`:
     -   Directory containing the raw and preprocessed accident data.
-- `models/`:
-    -   Directory containing trained machine learning models.
-- `results/`:
-    -   Directory containing result visualizations and analysis outputs.
+
  
 
 ## Usage
