@@ -18,16 +18,17 @@ Welcome to the Industrial Safety and Health Analytics Database. This dataset pro
 Contents:
 The database comprises records of accidents, where each entry represents an occurrence of an accident within the manufacturing plants. The dataset features a range of informative columns, offering details about each incident:
 
-Data: Timestamp or time/date information when the accident occurred.
-Countries: Anonymized information about the country where the accident took place.
-Local: Anonymized city information corresponding to the location of the manufacturing plant.
-Industry Sector: Indicates the sector to which the plant belongs.
-Accident Level: Ranges from I to VI, representing the severity of the accident (I indicates not severe, while VI indicates very severe).
-Potential Accident Level: Corresponds to the possible severity of the accident based on various factors.
-Genre: Specifies the gender of the affected person (male or female).
-Employee or Third Party: Identifies whether the injured individual is an employee or a third party.
-Critical Risk: Provides a description of the critical risk associated with the accident.
-Description: Offers a detailed account of how the accident occurred.
+- Data: Timestamp or time/date information when the accident occurred.
+- Countries: Anonymized information about the country where the accident took place.
+- Local: Anonymized city information corresponding to the location of the manufacturing plant.
+- Industry Sector: Indicates the sector to which the plant belongs.
+- Accident Level: Ranges from I to VI, representing the severity of the accident (I indicates not severe, while VI indicates very severe).
+- Potential Accident Level: Corresponds to the possible severity of the accident based on various factors.
+- Genre: Specifies the gender of the affected person (male or female).
+- Employee or Third Party: Identifies whether the injured individual is an employee or a third party.
+- Critical Risk: Provides a description of the critical risk associated with the accident.
+- Description: Offers a detailed account of how the accident occurred.
+
 Context:
 The dataset provides a unique opportunity to delve into real-world accident data from manufacturing plants, allowing us to analyze and address the safety concerns faced by employees and third parties. By sharing this dataset, we invite the community to collaborate, explore, and gain insights that can lead to safer industrial environments.
 
